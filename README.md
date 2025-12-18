@@ -29,8 +29,3 @@ They are discussed in the PPT.
 # Conclusion
 This project provides valuable insights into call center operations, helping to identify areas of strength and opportunities for improvement. By leveraging these insights, the call center can enhance its efficiency, customer satisfaction, and overall performance.
 
-Contact
-For any questions or further information, please contact:
-
-Name: Devanshi Jignesh Bhatt
-Email: devanshijbhatt@gmail.com
